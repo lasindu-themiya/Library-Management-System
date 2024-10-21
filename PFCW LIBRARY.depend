@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1704608281 source:e:\new folder\onedrive - national institute of business management\desktop\code blocks proj\pfcw library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
+1704709649 source:e:\new folder\onedrive - national institute of business management\desktop\presentation\pfcw library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
+1704779539 source:e:\new folder\onedrive - national institute of business management\desktop\pfcw\pfcw library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
